@@ -1,0 +1,3 @@
+Todo:
+1. Add another sample game + sample players
+2. Make an abstract DefaultInformedPlayer that provides nice helpers
