@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TicTacToeTournament.iml" filepath="$PROJECT_DIR$/TicTacToeTournament.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameTournamentManager.iml" filepath="$PROJECT_DIR$/GameTournamentManager.iml" />
     </modules>
   </component>
 </project>
